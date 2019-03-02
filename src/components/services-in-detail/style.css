@@ -1,0 +1,72 @@
+.btn-cta-turquoise {
+  background: #108cbd;
+  border: 2px #108cbd solid;
+  color: #fff;
+  padding: 10px 40px;
+  transition-duration: 0.4s;
+  font-size: 1.5em;
+}
+.btn-cta-turquoise:hover,
+.btn-cta-turquoise:active {
+  background: none;
+  color: #108cbd;
+  border-color: #108cbd;
+}
+
+.services-title-holder {
+  background: #fff;
+  padding: 20px 40px;
+  border-radius: 300px;
+  text-align: center;
+}
+
+.services-overview-section {
+  color: #777777;
+}
+
+.font-heavy {
+  font-weight: 800;
+}
+
+.sleek-badge {
+  font-weight: 800;
+  padding: 2px 0px;
+  width: 140px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.title-d-blue {
+  color: #5957cc;
+}
+.badge-d-blue {
+  background: #f0edfe;
+}
+
+.title-d-green {
+  color: #79a0a9;
+}
+.badge-d-green {
+  background: #e0f5f6;
+}
+
+.title-red {
+  color: #be656c;
+}
+.badge-red {
+  background: #fbe6ed;
+}
+
+.title-blue {
+  color: #598cc6;
+}
+.badge-blue {
+  background: #e0edfa;
+}
+
+.title-green {
+  color: #76ac97;
+}
+.badge-green {
+  background: #f0f8e8;
+}

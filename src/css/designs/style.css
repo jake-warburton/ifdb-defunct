@@ -1,0 +1,43 @@
+.projectsHolder {
+  background: #282c34;
+  border-radius: 8px;
+}
+
+.projectsHolder,
+.projectsHolder a {
+  color: #fff;
+}
+
+.portfolio_item_holder {
+  margin: 15px 0px;
+
+  cursor: pointer;
+}
+.portfolio_item {
+  width: 100%;
+}
+.portfolio_screenshot {
+  border-radius: 0.25rem;
+}
+.portfolio_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 14px;
+  background-image: linear-gradient(#ca7373, #b91527);
+  opacity: 0;
+  transition-duration: 0.2s;
+  border-radius: 0.25rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1.4rem;
+}
+.portfolio_overlay:hover {
+  opacity: 0.9;
+}

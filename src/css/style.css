@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,600,700,800');
+
+html {
+}
+body {
+  background: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+.heading {
+  font-weight: 600;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding-bottom: 1rem;
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  p {
+    font-size: 17px;
+  }
+}
+
+.wordpress-content h2 {
+  font-size: 1.5rem;
+}
+
+.wordpress-content p {
+  padding-bottom: 3.6rem;
+}
+.wordpress-content h2 {
+}
+.wordpress-content h4 {
+  font-size: 1.2rem;
+}
+
+.invisibleText {
+  height: 0px;
+  width: 0px;
+  overflow: hidden;
+}
+.after_heading {
+  max-height: 70px;
+}
+
+.button-sleek {
+  padding: 0.5rem 1rem;
+  background: #000;
+  color: #fff;
+  border-radius: 9999px;
+}
+
+.wordpress-content {
+  padding-bottom: 20px;
+}
+.wordpress-content img {
+  max-width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.wordpress-content figcaption {
+  text-align: center;
+  background: #f5f5f5;
+  color: #282c34;
+  font-weight: 500;
+  font-size: 1.1em;
+  padding: 6px 0px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+figure {
+  border: 1px #cacaca solid;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.wordpress-content .wp-block-code {
+  background: #f5f5f5;
+  color: #282c34;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.wordpress-content-holder h2,
+.wordpress-content-holder h3,
+.wordpress-content-holder h4,
+.wordpress-content-holder h5 {
+  padding-bottom: 1rem;
+}
+
+.latest-blogs-holder {
+  background: #f5f5fd;
+}
+
+.alignfull img {
+  width: 100%;
+}

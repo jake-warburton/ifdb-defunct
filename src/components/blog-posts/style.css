@@ -1,0 +1,25 @@
+.blog-post-card {
+  margin-bottom: 3rem;
+  min-height: 300px;
+  background-position: center center;
+  background-size: cover;
+  border-radius: 8px;
+}
+.caption-card-holder {
+  background-image: linear-gradient(360deg, #f5f5fd 6%, #ffffff00 100%);
+  width: 100%;
+  margin-bottom: -1px;
+}
+.caption-card {
+  max-width: 500px;
+  background: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+.caption-excerpt {
+  max-height: 3rem;
+  overflow: hidden;
+}
+a .caption-card {
+  color: #000;
+}

@@ -1,0 +1,67 @@
+.services-title-holder {
+  background: #fff;
+  padding: 20px 40px;
+  border-radius: 300px;
+  text-align: center;
+}
+
+.sleek-card {
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0px 10px 30px #e8e8e8;
+  margin: 0px 20px;
+  text-align: center;
+  padding-bottom: 20px;
+  height: 100%;
+}
+
+.services-overview-section {
+  color: #777777;
+}
+
+.font-heavy {
+  font-weight: 800;
+}
+
+.sleek-badge {
+  font-weight: 800;
+  padding: 2px 0px;
+  width: 140px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.title-d-blue {
+  color: #5957cc;
+}
+.badge-d-blue {
+  background: #f0edfe;
+}
+
+.title-d-green {
+  color: #79a0a9;
+}
+.badge-d-green {
+  background: #e0f5f6;
+}
+
+.title-red {
+  color: #be656c;
+}
+.badge-red {
+  background: #fbe6ed;
+}
+
+.title-blue {
+  color: #598cc6;
+}
+.badge-blue {
+  background: #e0edfa;
+}
+
+.title-green {
+  color: #76ac97;
+}
+.badge-green {
+  background: #f0f8e8;
+}
